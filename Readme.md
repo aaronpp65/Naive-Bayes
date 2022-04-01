@@ -1,16 +1,8 @@
-# A sentiment analysis system with Naïve Bayes
-
-A simple Java RMI application that involves both the client and server side of a distributed application: a simple sorting server.
-
-The sorting server operates a stack and clients push values and operations on to the stack and each client will have its own stack. Operations are always sensible: that is, we will only push an operator after pushing at least on value and we will only pop when there is a value on the stack.
+# IMDB sentiment analysis system with Naïve Bayes
 
 ### Dataset
 
-Download ad extract the IMDB dataset to project folder
-
-```
-imdb
-```
+Extract the IMDB dataset to project folder
 
 ### Running
 
